@@ -13,5 +13,5 @@ http://iam777.tistory.com/419
 
 3.프로젝트를 만들때 MinGW 32bit선택
 
-4.막 에러 debug run 실행하면 'during startup program exited with code 0xc0000135' 에러 발생
+4.debug run 실행하면 'during startup program exited with code 0xc0000135' 에러 발생
 -> 왼쪽메뉴 Projects -> Build & Run 에서 Run 선택 후 Run Environment에서 Path에 opencv dll 파일경로를 추가
