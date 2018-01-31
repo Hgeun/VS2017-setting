@@ -1,0 +1,6 @@
+dir /b > list.txt
+
+아니면 bat파일만들어서 원하는 폴더에 넣고 실행
+@echo off
+dir /b >%date:-=%-list.txt
+exit
